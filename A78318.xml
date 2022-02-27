@@ -1,0 +1,753 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the names of so many of those commissioners as sate and sentenced the late King Charles to death, Saturday the 27. of Ianuary, Anno 1648. in tendency to the executing the said sentence, which was accordingly done on the 30. of the said Ian. 1648. Of divers commissioners called, there appeared seventy two, whose names hereafter follow, viz. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78318</idno>
+            <idno type="STC">Wing C1388</idno>
+            <idno type="STC">Thomason E1017_7</idno>
+            <idno type="STC">ESTC R207964</idno>
+            <idno type="EEBO-CITATION">99866977</idno>
+            <idno type="PROQUEST">99866977</idno>
+            <idno type="VID">168816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the names of so many of those commissioners as sate and sentenced the late King Charles to death, Saturday the 27. of Ianuary, Anno 1648. in tendency to the executing the said sentence, which was accordingly done on the 30. of the said Ian. 1648. Of divers commissioners called, there appeared seventy two, whose names hereafter follow, viz. ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 13. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Early works to 1800.</term>
+               <term>Regicides --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:168816:1" rendition="simple:additions"/>
+            <head>A Catalogue of the Names of ſo many of thoſe Commiſſioners as ſate and ſentenced the late King CHARLES To Death, Saturday the 27. of <hi>Ianuary, Anno</hi> 1648. in Ten<g ref="char:EOLhyphen"/>dency to the executing the ſaid Sentence, which was accordingly done on the 30. of the ſaid <hi>Ian.</hi> 1648.</head>
+            <div type="part">
+               <head>Of divers Commiſſioners called, there appeared ſeventy two, whoſe Names hereafter follow, <hi>viz.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Iohn Bradſhaw,</hi> Lord Preſident.</item>
+                  <item>
+                     <hi>Oliver Cromwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Ireton.</hi>
+                  </item>
+                  <item>Sir <hi>Hardreſſe Waller.</hi>
+                  </item>
+                  <item>
+                     <hi>Valentine Walton.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Harriſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Whaley.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Pride.</hi>
+                  </item>
+                  <item>
+                     <hi>Iſaac Ewer.</hi>
+                  </item>
+                  <item>Lord <hi>Grey</hi> of <hi>Grooby.</hi>
+                  </item>
+                  <item>
+                     <hi>William Lord Mounſon.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Danvers.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Maleverer.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Bourcher.</hi>
+                  </item>
+                  <item>
+                     <hi>Iſaac Pennington.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Martin.</hi>
+                  </item>
+                  <item>
+                     <hi>William Purifoye.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Barkſtead.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Tomlinſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Blakeſtone.</hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert Millington.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Chaloner.</hi>
+                  </item>
+                  <item>Sir <hi>William Conſtable.</hi>
+                  </item>
+                  <item>
+                     <hi>Edmond Ludlow.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Hutchinſon.</hi>
+                  </item>
+                  <item>Sir <hi>Michael Liveſey.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Tichburn.</hi>
+                  </item>
+                  <item>
+                     <hi>Owne Roe.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Lilburn.</hi>
+                  </item>
+                  <item>
+                     <hi>Adrian Scroop.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Dean.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Okey.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Harriſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Hewſon.</hi>
+                  </item>
+                  <item>
+                     <hi>William Goffe.</hi>
+                  </item>
+                  <item>
+                     <hi>Cornelius Holland.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Carew.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Iones.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Liſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Peregrine Pelham.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Wogan.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Aleyn.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Blagrave.</hi>
+                  </item>
+                  <pb n="2" facs="tcp:168816:2"/>
+                  <item> 
+                     <hi>Iohn Moor.</hi>
+                  </item>
+                  <item>
+                     <hi>William Say.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Laſcells.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Chaloner.</hi>
+                  </item>
+                  <item>
+                     <hi>Gregory Clement.</hi>
+                  </item>
+                  <item>Sir <hi>Gregory Norton.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Venn.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Andrewes.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Stapley.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Horton.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Liſle.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Brown.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Dixwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Miles Corbet.</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Meyne.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Alured.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Smith.</hi>
+                  </item>
+                  <item>
+                     <hi>Humphrey Edwards.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Frye.</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund Harvey.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Scot.</hi>
+                  </item>
+                  <item>
+                     <hi>William Cawley.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Downes.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hammond.</hi>
+                  </item>
+                  <item>
+                     <hi>Vincent Potter.</hi>
+                  </item>
+                  <item>
+                     <hi>Auguſtine Garland.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Fleetwood.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Temple.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Wayte.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Painted Chamber, <date>24. Ian. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>The Names of Thirty five Witneſſes produced and ſworn in Court, to give Evidence to the <hi>Charge</hi> againſt the King.</p>
+               <list>
+                  <item>
+                     <hi>Henry Hartford</hi> of <hi>Stratford</hi> upon <hi>Avon</hi> in Co. Warw.</item>
+                  <item>
+                     <hi>Edward Roberts</hi> of <hi>Biſhops Caſtle</hi> in Com. <hi>Salop,</hi> Iron<g ref="char:EOLhyphen"/>monger.</item>
+                  <item>
+                     <hi>William Braynes</hi> of <hi>Wrixal</hi> in Com. <hi>Salop. Gent.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Lacie</hi> of <hi>Nottingham,</hi> Painter.</item>
+                  <item>
+                     <hi>Robert Loades</hi> of <hi>Cottam</hi> in Com. <hi>Nottingham,</hi> Tyler.</item>
+                  <item>
+                     <hi>Samuel Morgan</hi> of <hi>Wellington</hi> in Com. <hi>Salop.</hi> Feltmaker.</item>
+                  <item>
+                     <hi>Iames Williams</hi> of <hi>Roſs</hi> in Com. <hi>Hartford,</hi> Shoemaker.</item>
+                  <item>
+                     <hi>Richard Potts</hi> of <hi>Sharpreton</hi> in Co. <hi>Northumb.</hi> Vintner.</item>
+                  <item>
+                     <hi>Giles Grice</hi> of <hi>Wellington</hi> in Com. <hi>Salop.</hi> Gent.</item>
+                  <item>
+                     <hi>VVilliam Arnop</hi> of <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>Iohn Hudſon</hi> of <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>Iohn VVinſton</hi> of <hi>Dornorham</hi> in Com. <hi>VVilts.</hi>
+                  </item>
+                  <item>
+                     <hi>George Seeley</hi> of <hi>London,</hi> Cordwainer.</item>
+                  <item>
+                     <hi>Iohn Moor</hi> of <hi>Cork</hi> in <hi>Ireland,</hi>Gent.</item>
+                  <item>
+                     <hi>Thomas Ives</hi> of <hi>Boyſet</hi> in Co. <hi>Northampt.</hi> Husbandman.</item>
+                  <pb n="3" facs="tcp:168816:2"/>
+                  <item> 
+                     <hi>Iames Crosby</hi> of <hi>Dublin</hi> in <hi>Ireland,</hi>Barber.</item>
+                  <item>
+                     <hi>Thomas Rawlins</hi> of <hi>Hanſlop</hi> in Com. <hi>Buck.</hi> Gent.</item>
+                  <item>
+                     <hi>Richard Bloomfield</hi> of <hi>London,</hi> Weaver.</item>
+                  <item>
+                     <hi>Iohn Thomas</hi> of <hi>Langallan</hi> in Com. Denbigh.</item>
+                  <item>
+                     <hi>William Lawſon</hi> of <hi>Nott.</hi> Maulſter.</item>
+                  <item>
+                     <hi>Iohn Pinegar</hi> of <hi>Dainer</hi> in Com. <hi>Darby,</hi> Shoemaker.</item>
+                  <item>
+                     <hi>Humphrey Brown</hi> of <hi>Whitſundine</hi> in Co.<hi>Rutl.</hi> Yeoman.</item>
+                  <item>
+                     <hi>David Evans</hi> of <hi>Abergaveny</hi> in Com. <hi>Monm. Smith.</hi>
+                  </item>
+                  <item>
+                     <hi>Kobert Holmes</hi> of <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>Robert Williams</hi> of <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>Samuel Boorden</hi> of <hi>Lineham</hi> in Com. <hi>Wilts</hi> Gent.</item>
+                  <item>
+                     <hi>Thomas Read</hi> of <hi>Maidſtone</hi> in Com. <hi>Kent,</hi> Gent,</item>
+                  <item>
+                     <hi>George Cornwall</hi> of <hi>Aſton</hi> in Com. <hi>Hereford,</hi> Forgeman.</item>
+                  <item>
+                     <hi>William Iones</hi> of <hi>Vske</hi> in Com. <hi>Monmouth,</hi> Husbandm.</item>
+                  <item>
+                     <hi>Arthur Young</hi> Citizen &amp; Barber Chirurgeon of <hi>London</hi>
+                  </item>
+                  <item>
+                     <hi>Diogenes Edwards</hi> of <hi>carſton</hi> in Com.<hi>Salop,</hi> Butcher.</item>
+                  <item>
+                     <hi>Iohn Bennet</hi> of <hi>Harwood in</hi> Com. <hi>Ebor.</hi> Glover.</item>
+                  <item>
+                     <hi>William Cuthert</hi> of <hi>Patrington</hi> in <hi>Holdernes</hi> in Com. <hi>Ebor.</hi> Gent.</item>
+                  <item>
+                     <hi>Richard Price</hi> of <hi>London,</hi> Scrivener.</item>
+                  <item>
+                     <hi>Henry Gouch</hi> of <hi>Gray's-Inne,</hi> Gent.</item>
+               </list>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Painted Chamber; <date>Monday 29. Ian. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>This day the King being withdrawn from the Bar of the High Court of Iuſtice, the Court adjourned, and ſate private in the <hi>Painted Chamber.</hi>
+               </p>
+               <p>And Conſidered of the Kings Carriage upon the Satur<g ref="char:EOLhyphen"/>day before, and of all that then paſſed; and fully approved what the Lord Preſident had done in the managing the bu<g ref="char:EOLhyphen"/>ſineſſe of that day, as agreeing to their ſenſe: And percei<g ref="char:EOLhyphen"/>ving what the King aimed at, <hi>viz.</hi> To bring in queſtion (if he could) the juiſdiction of the Court, and the Authority thereof, whereby they ſate; And conſidering, that in the <hi>interim</hi> he had not acknowledged them in any ſort to be a Court, or his Iudges; and through their ſides intended to
+<pb n="4" facs="tcp:168816:3"/>wound (if he might be permitted) the Supream Authority of the Commons of <hi>England</hi> in their Repreſentatives, the Commons aſſembled in Parliament.</p>
+               <p>After advice with their Council learned in both laws, and mature deliberation had of the matter, they Reſolved.</p>
+               <p>That the King ſhould not be ſuffered to argue the Courts Iuriſdiction, or that which conſtituted them a Court, of which debate they had not proper cognizance, nor could they, being a derivative Iudicature of that Supream Court which made them Iudges, and from which there was no appeal.</p>
+               <p>And did therefore order and direct, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Ordered,</hi> That in caſe the King ſhall again offer to diſpute the Authority of the Court, the Lord Preſident do let him know, that the Court had taken into conſideration his de<g ref="char:EOLhyphen"/>mands of the laſt day; and that he ought to reſt ſatisfied with this Anſwer, That the Commons of <hi>England</hi> aſſem<g ref="char:EOLhyphen"/>bled in Parliament have conſtituted the Court, whoſe pow<g ref="char:EOLhyphen"/>er may not, nor ſhould be permitted to be diſputed by him.</p>
+               <p>That in caſe he ſhall refuſe to anſwer, or acknowledge the Court, the Lord Preſident do let him know, that the Court will take it as a contumacy, and that it ſhall be ſo Recorded.</p>
+               <p>That in caſe heſhall offer with a ſaving notwithſtanding of his pretended Prerogative above the Iuridiction of the Court; the Lord Preſident do let him know, that the Lord Preſident does in the name of the Court refuſe his Proteſts, and requires his poſitive Anſwer whether he will own the Court, or not?</p>
+               <p>That in caſe the King ſhall demand a Copy of the Charge, that then he ſhall declare his intention to Anſwer, and that declaring ſuch his intention; a Copy be granted unto him.</p>
+               <p>That in caſe the King ſhall ſtill perſiſt in his contempt, the Lord Preſident do give command to the Clerk to de<g ref="char:EOLhyphen"/>mand of the King in the name of the Court, in theſe words following, <hi>viz.</hi>
+               </p>
+               <pb n="5" facs="tcp:168816:3"/>
+               <p> Charles Stuart, <hi>King of</hi> England, <hi>you are accuſed in be<g ref="char:EOLhyphen"/>half of the People of</hi> England <hi>of divers high Crimes and Trea<g ref="char:EOLhyphen"/>ſons, which Charge hath been read unto you. The Court re<g ref="char:EOLhyphen"/>quires you to give a Poſitive Anſwer, to confeſse or deny the Charge, having determined, that you ought to anſwer the ſame.</hi>
+               </p>
+               <p>THe true manner of proceeding to take off the Kings Head, according to the ſentence given as aforeſaid.</p>
+               <p>Sir <hi>Hardreſse VValler.</hi> Colonel <hi>Harriſon,</hi> Commiſſary General <hi>Ireton,</hi> Colonel <hi>Dean,</hi> and Colonel <hi>Okey,</hi> were ap<g ref="char:EOLhyphen"/>pointed to conſider of the time and place for the Executi<g ref="char:EOLhyphen"/>on of the King, according to his Sentence given by the High Court of Iuſtice.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Painted Chamber, <date>Monday Ian. 29. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>UPon Report made from the Committee for conſide<g ref="char:EOLhyphen"/>ring of the ime and place of the executing of the Iudgement againſt the King, that the ſaid Committee have reſolved, that the open ſtreet before <hi>Vvhite-hall</hi> is a fit place. And that the ſaid Committee conceive it fit that the King be there executed the morrow, the King having already notice thereof.</p>
+               <p>The Court approved thereof, and Ordered a Warrant to be drawn for that purpoſe; which Warrant was accor<g ref="char:EOLhyphen"/>dingly drawn, and agreed unto, and Ordered to be ingroſ<g ref="char:EOLhyphen"/>ſed, which was done, and ſigned, and ſealed accordingly, as followeth, <hi>viz.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="warrant">
+                           <opener>
+                              <dateline>At the High Court of Iuſtice for the Trying and Iudging of <hi>Charles Stuart,</hi> King of <hi>England,</hi> 
+                                 <date>Ian. 29. 1648.</date>
+                              </dateline>
+                           </opener>
+                           <p>WHereas <hi>Charles Stuart,</hi> King of <hi>England,</hi> is and ſtand<g ref="char:EOLhyphen"/>eth convicted, attainted, and condemned of High trea<g ref="char:EOLunhyphen"/>ſon, and other High Crimes, and Sentence upon Saturday laſt was pronounced againſt him by this Court, to be put to Death, by the ſevering his Head from his body, of which Sentence,
+<pb n="6" facs="tcp:168816:4"/>Execution yet remaineth to be done. Theſe are therefore to will and require you to ſee the ſaid Sentence executed in the o<g ref="char:EOLhyphen"/>pen ſtreet before <hi>White-hall,</hi> upon the morrow, being the <hi>30</hi> day of this inſtant moneth of <hi>Ianuary,</hi> between the hours of ten in the morning, and five in the afternoon of the ſame day, with full effect. And for ſo doing, this ſhall be your ſufficient War<g ref="char:EOLhyphen"/>rant. And theſe are to require all Officers and Soldiers, and o<g ref="char:EOLhyphen"/>ther the good People of this Nation of <hi>England</hi> to be aſsiſtant unto you in this ſervice.</p>
+                           <closer>
+                              <dateline>Given under our hands and ſeals.</dateline>
+                           </closer>
+                           <trailer>To Colonel <hi>Francis Hacker,</hi> Colonel <hi>Hunks,</hi> and Lieutenant Colonel <hi>Phray,</hi> and to every of them.</trailer>
+                           <closer>
+                              <signed>Sealed and ſubſcribed, by
+<list>
+                                    <item>
+                                       <hi>Iohn Bradshaw,</hi> Lord Preſident.</item>
+                                    <item>
+                                       <hi>Thomas Grey.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Oliver Cromwel.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Edward Whaley.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Iohn Okey.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Danvers.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mich. Liveſey.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Bourcher.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hen. Ireton.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Maleverer.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Blakeſtone.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Hutchinſon.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Will. Goffe.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Pride.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hen. Smith.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Vincent Potter.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Will. Conſtable.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rich. Ingoldsby.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Will. Cawley.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ioh. Barkſtead.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Iſaac Ewer.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Val. Walton.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Peter Temple.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Harriſon.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Hewſon.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Per. Pelham.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rich. Dean,</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rob. Tichburn.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hum. Edwards.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Dan. Blagrave.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Owen Roe.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Will. Purifoye.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Adrian Scroop.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Iames Temple.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Aug. Garland.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Edmond Ludlow.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hen. martin.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Alured.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rob. Lilburn.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Will. Say.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Anth. Stapley.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Greg. Norton.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Chaloner.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Wogan.</hi>
+                                    </item>
+                                    <pb n="7" facs="tcp:168816:4"/>
+                                    <item> 
+                                       <hi>Simon Meyne.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Horton.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Iones.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Meor.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hardreſſe Waller.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Gilbert Millington.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ch. Fleetwood.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Venn.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Greg. Clement.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Io. Downs.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Wayte.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Scot.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ioh. Carew.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Miles Corbet.</hi>
+                                    </item>
+                                 </list> In all Fifty Eight.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Painted Chamber, <date>30. Ian. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>The Commiſſioners met, and Ordered.</p>
+               <p>THat Mr. <hi>Marſhall,</hi> Mr. <hi>Nye,</hi> Mr. <hi>Caryl,</hi> Mr. <hi>Salway,</hi> and Mr. <hi>Dell,</hi> be deſired to attend the King, to adminiſter unto him thoſe ſpirituall helps as ſhould be ſuitable to his condition. And Lientenant Colonel <hi>Goffe</hi> is deſired forth<g ref="char:EOLhyphen"/>with to repair unto them for that purpoſe, who did ſo, but afterward informed the Court, that the King being ac<g ref="char:EOLhyphen"/>quainted therewith, refuſed to conferred with them, expreſ<g ref="char:EOLhyphen"/>ſing himſelf, that he would not be troubled with them.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Scaffold, upon which the King is to be executed, be covered with black.</p>
+               <p>TheWarrant for executing the King being according<g ref="char:EOLhyphen"/>ly delivered to thoſe Parties to whom the ſame was dire<g ref="char:EOLhyphen"/>cted, Execution was done upon him, according to the te<g ref="char:EOLhyphen"/>nor thereof, about Two of the Clock in the Afternoon of the ſaid 30. of <hi>Ianuary,</hi> 1648.</p>
+               <div type="section">
+                  <head>Counſellours aſſiſtant to this Court, and to draw up the Charge againſt the King are theſe.</head>
+                  <list>
+                     <item>Doctor <hi>Doriſſaus.</hi>
+                     </item>
+                     <item>Maſter <hi>Aske.</hi>
+                     </item>
+                     <item>Maſter <hi>Cooke.</hi>
+                     </item>
+                     <item>Serjeant <hi>Dandy,</hi> Serjeant at Armes.</item>
+                     <item>Maſter <hi>Phelps,</hi> Clerk to the Court.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:168816:5"/>
+                  <head>Meſſengers and Door-keepers are theſe.</head>
+                  <list>
+                     <item>Maſter <hi>Walford.</hi>
+                     </item>
+                     <item>Maſter <hi>Radley.</hi>
+                     </item>
+                     <item>Maſter <hi>Paine.</hi>
+                     </item>
+                     <item>Maſter <hi>Powell.</hi>
+                     </item>
+                     <item>Maſter <hi>Hull,</hi> and</item>
+                     <item>Maſter <hi>King</hi> Cryer.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>The Names of other Perſons that were ſummoned, to the Tryallof the King.</head>
+                  <list>
+                     <item>Major Gen. <hi>Skippon.</hi>
+                     </item>
+                     <item>Col. <hi>Rich. Ingoldsby.</hi>
+                     </item>
+                     <item>Sir <hi>Henry Mildmay.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip</hi> Lord <hi>Liſle.</hi>
+                     </item>
+                     <item>Sir. <hi>Iames Harrington.</hi>
+                     </item>
+                     <item>Sir. <hi>William Brereton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Henningham,</hi> Eſq;</item>
+                     <item>
+                        <hi>Thomas Atkins,</hi> Alderm.</item>
+                     <item>Col. <hi>Rowland Wilſon.</hi>
+                     </item>
+                     <item>Sir <hi>Peter Wentworth.</hi>
+                     </item>
+                     <item>Col. <hi>Godſrey Boſvill.</hi>
+                     </item>
+                     <item>Col. <hi>Iohn Disborow.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Gourdon</hi> Eſq;</item>
+                     <item>Serjeant <hi>Francis Thorpe.</hi>
+                     </item>
+                     <item>
+                        <hi>Dennis Bond</hi> Eſq;</item>
+                     <item>
+                        <hi>Iohn Dove</hi> Eſq;</item>
+                     <item>
+                        <hi>Iohn Fowks</hi> Eſq;</item>
+                     <item>
+                        <hi>Thomas Blunt</hi> Eſq;</item>
+                     <item>
+                        <hi>Thomas Boone</hi> Eſq;</item>
+                     <item>
+                        <hi>Abraham Barrell.</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Love.</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
